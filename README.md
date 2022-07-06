@@ -30,4 +30,4 @@ yarn start
 
 Neste projeto eu clonei uma interface netflix. A integração com API's foi feita externamente ao "themoviedb" para criação da interface.
 
-Link: https://netflix-clone-git-main-guiinnf.vercel.app/
+Link do deploy: https://netflix-clone-git-main-guiinnf.vercel.app/
